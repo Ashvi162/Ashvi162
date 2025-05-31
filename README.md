@@ -1,4 +1,4 @@
--• 👋 Hi, I’m @Ashvi162  
+• 👋 Hi, I’m @Ashvi162  
 • 🌱 I’m currently exploring data science, deep learning, and real-world AI applications.  
 • 🧠 Passionate about solving problems through code, especially in machine learning and computer vision.  
 • 🔧 Working on personal and open-source projects to sharpen my skills in model deployment and MLOps.  
